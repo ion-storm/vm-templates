@@ -1,6 +1,6 @@
 {
     "template": {
-        "name": "ubuntu-server-16.04-vnc", 
+        "name": "custom-ubuntu-server-16.04-vnc", 
         "author": "Wojciech Kloska <shangteus@ixsystems.com>", 
         "description": "Ubuntu Server 16.04 with VNC session started automatically", 
         "created_at": {
